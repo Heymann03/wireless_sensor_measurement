@@ -1,5 +1,5 @@
 # wireless_sensor_measurement
-Research Project
+
 #include <SPI.h>
 #include <nRF24L01.h>
 #include <RF24.h>
